@@ -1,4 +1,4 @@
-# 🦅 ¡Hola! Soy Alejandro Buitrago (ElBuitre10) 🇨🇴
+# 🦅 ¡Hola! Soy Alejandro Buitrago (ElBuitre10)
 
 ### 👨‍💻 Analista de Ciberseguridad L1 / SecOps & Especialista en Infraestructura de Redes
 
