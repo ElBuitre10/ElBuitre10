@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Analista de Ciberseguridad L1 / SecOps & Especialista en Infraestructura de Redes
 
-Profesional técnico enfocado en la administración de infraestructura digital, seguridad perimetral y operaciones de ciberseguridad (SecOps). Mi metodología de trabajo se basa en el análisis profundo del flujo de datos, la ingeniería inversa aplicada y la implementación estricta de arquitecturas basadas en la filosofía de **Confianza Cero (Zero Trust)**.
+Técnico en formación  enfocado en la administración de infraestructura digital, seguridad perimetral y operaciones de ciberseguridad (SecOps). Mi metodología de trabajo se basa en el análisis profundo del flujo de datos, la ingeniería inversa aplicada y la implementación estricta de arquitecturas basadas en la filosofía de **Confianza Cero (Zero Trust)**.
 
 Me especializo en el diseño y despliegue de entornos defensivos, el análisis de tráfico crítico y la automatización de procesos para centros de operaciones de seguridad.
 
